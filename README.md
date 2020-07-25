@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Pedro!](https://pemtajo.github.io) 👋
 
 <!--
 **pemtajo/pemtajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Pemtajos's github stats](https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&theme=dark)](https://github.com/pemtajo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pemtajo)](https://github.com/pemtajo/github-readme-stats)
+
+<a href="https://github.com/pemtajo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemtajo&theme=dark" />
+</a>
+<a href="https://github.com/pemtajo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&theme=dark&line_height=27" alt="Pedro's github stats" />
+</a>
