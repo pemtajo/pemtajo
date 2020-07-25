@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/pemtajo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&theme=dark&line_height=27" alt="Pedro's github stats" />
 </a>
+
+![Visitor Count](https://profile-counter.glitch.me/pemtajo/count.svg)
