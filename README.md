@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Pemtajos's github stats](https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&theme=dark)](https://github.com/pemtajo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pemtajo)](https://github.com/pemtajo/github-readme-stats)
