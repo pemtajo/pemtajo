@@ -20,9 +20,9 @@
 <br />
 <br />
 
-<p align="center">
+<div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/pemtajo/count.svg)
   
-</p>
+</div>
 
