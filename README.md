@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="pemtajo" /> </p>
 
-- 🔭 I’m currently working on **@aiqfome**
+- 🔭 I’m currently working on [**@aiqfome**](https://github.com/aiqfome)
 
 - 🌱 I’m currently learning **Elixir, React**
 
