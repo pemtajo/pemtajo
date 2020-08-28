@@ -25,14 +25,14 @@ Other        19 mins         █▒░░░░░░░░░░░░░░░
 
 <br />
 
+📊 **Github status**
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemtajo&hide=html&theme=dark" alt="pemtajo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&theme=dark" alt="pemtajo" /></p>
 
 <br />
-<br />
 
-<br />
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
