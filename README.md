@@ -32,6 +32,8 @@ Other        19 mins         █▒░░░░░░░░░░░░░░░
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&theme=dark" alt="pemtajo" /></p>
 
 <br />
+<br />
+<br />
 
 
 📕 **Latest Blog Posts**
