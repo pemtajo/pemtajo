@@ -14,14 +14,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&theme=dark" alt="pemtajo" /></p>
 
+<br />
 
 -------
+
 <p align="center">
 <a href="https://dev.to/pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pemtajo" height="30" width="30" /></a>
 <a href="https://twitter.com/pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pemtajo" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pedromaraujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a>
 <a href="https://medium.com/@pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pemtajo" height="30" width="30" /></a>
 </p>
+
+-------
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
