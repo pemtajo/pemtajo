@@ -15,7 +15,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
+Week: 07 September, 2020 - 14 September, 2020
 
 JavaScript   6 hrs 29 mins   ██████████████████████▓░░   91.26 % 
 YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
