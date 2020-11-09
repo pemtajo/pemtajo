@@ -15,7 +15,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2020 - 07 November, 2020
+Week: 01 November, 2020 - 08 November, 2020
 
 YAML     1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.85 % 
 Other    1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
