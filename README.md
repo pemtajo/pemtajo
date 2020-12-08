@@ -15,7 +15,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2020 - 06 December, 2020
+Week: 30 November, 2020 - 07 December, 2020
 
 JavaScript   21 hrs 10 mins  █████████████████░░░░░░░░   68.55 % 
 Other        2 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
