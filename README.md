@@ -15,7 +15,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
 Python       2 hrs 1 min     ███████████████████████▓░   94.64 % 
 JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
