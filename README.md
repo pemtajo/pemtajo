@@ -15,7 +15,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2021 - 31 January, 2021
+Week: 25 January, 2021 - 01 February, 2021
 
 JavaScript   12 hrs 12 mins  ████████████████████░░░░░   79.37 % 
 Other        1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
