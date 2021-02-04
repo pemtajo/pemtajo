@@ -1,0 +1,14 @@
+name: Update badges
+
+on: push
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

@@ -12,6 +12,14 @@
 
 <br />
 
+📕 **MY BADGES**
+<!--START_SECTION:badges-->
+```text
+Week: 27 January, 2021 - 03 February, 2021
+
+```
+<!--END_SECTION:badges-->
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
