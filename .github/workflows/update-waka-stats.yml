@@ -1,4 +1,4 @@
-name: Update stats
+name: Update waka stats
 
 on:
   schedule:
@@ -13,6 +13,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN}}
-          COMMIT_MESSAGE: Updated the Readme
           HEAD_FLAG: true
           SHOW_TITLE: true
