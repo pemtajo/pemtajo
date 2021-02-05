@@ -14,10 +14,7 @@
 
 📕 **MY BADGES**
 <!--START_SECTION:badges-->
-```text
-Week: 27 January, 2021 - 03 February, 2021
-
-```
+<p align="left"></p>
 <!--END_SECTION:badges-->
 
 📊 **This week I spent my time on**
