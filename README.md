@@ -20,7 +20,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
+Week: 07 February, 2021 - 14 February, 2021
 
 JavaScript   16 hrs 52 mins  ████████████████████▒░░░░   81.74 % 
 YAML         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
