@@ -46,7 +46,7 @@ Python       41 mins         █░░░░░░░░░░░░░░░░
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
-- [How to improve your Github profile by adding badges](https://medium.com/@pemtajo/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
+- [How to improve your Github profile by adding badges](https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
 - [Good test vs. bad test, como identificar?](https://medium.com/devorando/good-test-bad-test-como-identificar-ffd1d43ca034?source=rss-bb908bda42e------2)
 - [Tokens JWT! o que são? o que comem? onde vivem?](https://medium.com/devorando/tokens-jwt-o-que-s%C3%A3o-o-que-comem-onde-vivem-f4e85ad37876?source=rss-bb908bda42e------2)
 - [Bora falar sobre funções HASH? #first](https://medium.com/devorando/first-bora-falar-sobre-funcoes-hash-a0df1afdfe24?source=rss-bb908bda42e------2)
