@@ -11,3 +11,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
