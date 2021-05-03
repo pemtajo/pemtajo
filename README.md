@@ -45,6 +45,8 @@ Markdown     17 mins         ▓░░░░░░░░░░░░░░░░
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&locale=en&theme=dark" alt="pemtajo" /></p>
 
 <br />
+<br />
+<br />
 
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width = 50px> </h2>
 
