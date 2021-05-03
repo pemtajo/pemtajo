@@ -40,11 +40,9 @@ Markdown     17 mins         ▓░░░░░░░░░░░░░░░░
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pemtajo&theme=dark" alt="pemtajo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&locale=en&theme=dark" alt="pemtajo" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pemtajo&show_icons=true&locale=en&layout=compact&theme=dark" alt="pemtajo" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtajo&show_icons=true&locale=en&theme=dark" alt="pemtajo" /></p>
 
 <br />
 
