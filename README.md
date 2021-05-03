@@ -20,6 +20,8 @@
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+
+
 <!--START_SECTION:waka-->
 ```text
 Week: 25 April, 2021 - 02 May, 2021
@@ -44,8 +46,8 @@ Markdown     17 mins         ▓░░░░░░░░░░░░░░░░
 <br />
 <br />
 
-
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width = 70px> </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
 - [How to improve your Github profile by adding badges](https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
