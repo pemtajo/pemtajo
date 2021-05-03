@@ -45,8 +45,6 @@ Markdown     17 mins         ▓░░░░░░░░░░░░░░░░
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pemtajo&theme=dark" alt="pemtajo" /></p>
 
 <br />
-<br />
-<br />
 
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width = 50px> </h2>
 
