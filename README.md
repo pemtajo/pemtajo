@@ -48,7 +48,7 @@ Markdown     17 mins         ▓░░░░░░░░░░░░░░░░
 <br />
 <br />
 
-<h2> Latest Blog Posts <img align="left" src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width = 50px> </h2>
+<h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width = 50px> </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
