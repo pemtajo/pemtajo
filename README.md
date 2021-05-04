@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 April, 2021 - 02 May, 2021
+Week: 26 April, 2021 - 03 May, 2021
 
 Python       10 hrs 27 mins  ██████████████████▓░░░░░░   74.72 % 
 JavaScript   1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
