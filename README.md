@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 May, 2021 - 09 May, 2021
+Week: 03 May, 2021 - 10 May, 2021
 
 Python   9 hrs 23 mins   ███████████████████░░░░░░   76.02 % 
 Other    2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.98 % 
