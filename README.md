@@ -16,6 +16,7 @@
 
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
+
 [![Enterprise Design Thinking Practitioner](https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/6267a487-d693-44e6-acb2-d9e17df66e14 "Enterprise Design Thinking Practitioner")
 [![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/ab9bcce8-3daf-4878-8bc3-37b9658e366e "Data Science Foundations - Level 1")
 [![IBM Automation: Compass](https://images.credly.com/size/110x110/images/553e31d1-ea8b-4914-a86a-0233d1978d37/ALC-Compass-Badge-600x600.png)](http://www.credly.com/badges/898269f5-5a66-4e3c-97aa-ea4ca6b211a6 "IBM Automation: Compass")
