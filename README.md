@@ -47,13 +47,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2021 - 09 June, 2021
+Week: 03 June, 2021 - 10 June, 2021
 
-JavaScript   5 hrs 9 mins    █████████████████░░░░░░░░   68.13 % 
-Python       1 hr 46 mins    ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Text         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript   4 hrs 21 mins   ███████████░░░░░░░░░░░░░░   43.54 % 
+Python       2 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.15 % 
+Markdown     1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Text         1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 <!--END_SECTION:waka-->
 
