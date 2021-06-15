@@ -47,7 +47,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
+Week: 07 June, 2021 - 14 June, 2021
 
 Python       4 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   36.77 % 
 Markdown     2 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.52 % 
