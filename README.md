@@ -17,6 +17,8 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![IBM Mentor](https://images.credly.com/size/110x110/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png)](http://www.credly.com/badges/fd8b4c69-360f-46df-b403-a851160f6a17 "IBM Mentor")
+[![IBM Mentor](https://images.credly.com/size/110x110/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png)](http://www.credly.com/badges/384e5e94-791c-4dd4-adda-60697a26108e "IBM Mentor")
 [![Banking Industry Jumpstart](https://images.credly.com/size/110x110/images/ff723f85-6709-4dc5-ace5-37dd43d24a68/Banking-Industry-Jumpstart.png)](http://www.credly.com/badges/35b9b59e-36c6-4ed6-8847-9ba67d05b54a "Banking Industry Jumpstart")
 [![IBM Recognized Speaker/ Presenter](https://images.credly.com/size/110x110/images/aad8d8bc-1cdf-4e79-b1e0-1595aeab251b/Speaker-presenter.png)](http://www.credly.com/badges/9e8d6573-5ea4-4124-a371-96ea243d6eff "IBM Recognized Speaker/ Presenter")
 [![IBM Blockchain Foundation Architects](https://images.credly.com/size/110x110/images/65a41da4-05d0-4b64-9065-e99f52571020/IBM-Blockchain-Foundation-Architect.png)](http://www.credly.com/badges/e5ec2320-5ea5-4825-b8ce-d311a98865de "IBM Blockchain Foundation Architects")
