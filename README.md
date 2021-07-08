@@ -17,6 +17,8 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/110x110/images/c848b101-661f-4f3a-bc8f-f9c977a55524/Containers-K8s-istio-IBM_cloud_v2.png)](http://www.credly.com/badges/1ad7529a-c7cc-44ca-b9ff-5d5f5d067d45 "Containers, K8s and Istio on IBM Cloud")
+[![Containers & Kubernetes Essentials](https://images.credly.com/size/110x110/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png)](http://www.credly.com/badges/34545d3b-215d-4b43-8620-0b1b75306b35 "Containers & Kubernetes Essentials")
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png)](http://www.credly.com/badges/8095c46a-f375-4b5a-b12f-f25d1ea8162b "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
 [![Getting started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/376369e8-1901-44fa-af45-ce4422818f0c/Itsio_and_IBM_Cloud_Container_Service.png)](http://www.credly.com/badges/ccdebc53-e8d6-4e60-bee3-91cd010e7361 "Getting started with Microservices with Istio and IBM Cloud Kubernetes Service")
 [![Data Science for Business - Level 1](https://images.credly.com/size/110x110/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/e6bb7615-86ee-4063-8176-38cc590523cd "Data Science for Business - Level 1")
