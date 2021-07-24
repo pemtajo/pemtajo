@@ -17,6 +17,7 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![Explorations into Mindfulness](https://images.credly.com/size/110x110/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/809ea7b2-ac3f-4d74-842f-4e4024e97491 "Explorations into Mindfulness")
 [![IBM Mentor](https://images.credly.com/size/110x110/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png)](http://www.credly.com/badges/39b05265-01f2-4eb2-a69c-b7df52255431 "IBM Mentor")
 [![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/110x110/images/c848b101-661f-4f3a-bc8f-f9c977a55524/Containers-K8s-istio-IBM_cloud_v2.png)](http://www.credly.com/badges/1ad7529a-c7cc-44ca-b9ff-5d5f5d067d45 "Containers, K8s and Istio on IBM Cloud")
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/110x110/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png)](http://www.credly.com/badges/34545d3b-215d-4b43-8620-0b1b75306b35 "Containers & Kubernetes Essentials")
