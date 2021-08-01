@@ -58,13 +58,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 July, 2021 - 30 July, 2021
+Week: 25 July, 2021 - 31 July, 2021
 
-Python             2 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.09 % 
-Text               1 hr 13 mins    ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-JavaScript         52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 % 
-reStructuredText   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-JSON               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python             3 hrs 35 mins   █████████████▓░░░░░░░░░░░   55.15 % 
+Text               1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 % 
+JavaScript         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+reStructuredText   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JSON               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 <!--END_SECTION:waka-->
 
