@@ -59,13 +59,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2021 - 12 August, 2021
+Week: 07 August, 2021 - 13 August, 2021
 
-Python       8 hrs 29 mins   ██████████████████████░░░   87.88 % 
-JavaScript   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Markdown     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python       12 hrs 20 mins  ███████████████████████▒░   93.41 % 
+JavaScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
