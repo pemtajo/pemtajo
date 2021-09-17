@@ -62,13 +62,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2021 - 15 September, 2021
+Week: 10 September, 2021 - 16 September, 2021
 
-JavaScript   7 hrs 34 mins   ███████████████████▓░░░░░   78.65 % 
-YAML         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Python       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+JavaScript   4 hrs 6 mins    █████████████▒░░░░░░░░░░░   53.38 % 
+Python       1 hr 42 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.21 % 
+YAML         1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 
