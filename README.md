@@ -17,6 +17,7 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![IBM AI Associate for All IBMers](https://images.credly.com/size/110x110/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7 "IBM AI Associate for All IBMers")
 [![Blue Core Mentor](https://images.credly.com/size/110x110/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png)](http://www.credly.com/badges/4f99f67a-d600-42a5-8163-67e732db2b3c "Blue Core Mentor")
 [![IBM Agile Explorer](https://images.credly.com/size/110x110/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/900a2dc6-5f67-4cde-960d-e40c49d5ea16 "IBM Agile Explorer")
 [![Interskill - Coaching and Mentoring for Technical Specialists](https://images.credly.com/size/110x110/images/ca34a079-0c47-498d-950e-6d634b6340bf/Interskill_-_Prof_Dev_-_Coach_Mentoring_for_Tech_Specialists.png)](http://www.credly.com/badges/debc3eba-c526-4734-9735-25c2d2be7451 "Interskill - Coaching and Mentoring for Technical Specialists")
