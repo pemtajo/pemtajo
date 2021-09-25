@@ -63,13 +63,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
+Week: 18 September, 2021 - 24 September, 2021
 
-YAML         1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
-Python       1 hr 24 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 % 
-Docker       1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.72 % 
-JavaScript   1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Other        27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+JavaScript   2 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
+Python       1 hr 49 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.45 % 
+Docker       1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.67 % 
+YAML         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Other        27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 <!--END_SECTION:waka-->
 
