@@ -64,13 +64,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2021 - 01 October, 2021
+Week: 26 September, 2021 - 02 October, 2021
 
-Python       2 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.67 % 
-JavaScript   2 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   37.58 % 
-Bash         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Other        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-CSV          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Python       2 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   32.54 % 
+YAML         1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+JavaScript   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Markdown     36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Bash         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 <!--END_SECTION:waka-->
 
