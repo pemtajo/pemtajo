@@ -17,6 +17,7 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![IBM Quantum Conversations](https://images.credly.com/size/110x110/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png)](http://www.credly.com/badges/ef86ea89-cd1a-450d-a3b3-106b22936992 "IBM Quantum Conversations")
 [![Watson and Cloud Foundations](https://images.credly.com/size/110x110/images/53608ce6-a597-40fa-a42d-d243b3ecfba4/Watson_and_Cloud_Foundations.png)](http://www.credly.com/badges/63c38ffc-c9d1-43e7-955a-0b46b2c4e5ea "Watson and Cloud Foundations")
 [![IBM AI Associate for All IBMers](https://images.credly.com/size/110x110/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7 "IBM AI Associate for All IBMers")
 [![Blue Core Mentor](https://images.credly.com/size/110x110/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png)](http://www.credly.com/badges/4f99f67a-d600-42a5-8163-67e732db2b3c "Blue Core Mentor")
