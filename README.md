@@ -65,13 +65,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
+Week: 08 October, 2021 - 14 October, 2021
 
-Python       2 hrs 55 mins   ███████████░░░░░░░░░░░░░░   44.46 % 
-JavaScript   2 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.59 % 
-YAML         43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Docker       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Python       3 hrs 51 mins   █████████████▓░░░░░░░░░░░   54.73 % 
+JavaScript   2 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.01 % 
+YAML         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
