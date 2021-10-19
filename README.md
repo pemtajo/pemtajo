@@ -65,7 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2021 - 17 October, 2021
+Week: 12 October, 2021 - 18 October, 2021
 
 Python     7 hrs 21 mins   ████████████████████▒░░░░   81.30 % 
 Markdown   1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
