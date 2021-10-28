@@ -17,6 +17,9 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![Think Like a Hacker](https://images.credly.com/size/110x110/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/b512d99e-92f7-476a-b1ba-710111fbcd30 "Think Like a Hacker")
+[![IBM AI Associate Leader](https://images.credly.com/size/110x110/images/4b2792a2-3339-4169-88ea-9ede13358440/IBM-AI-Associate-Leader.png)](http://www.credly.com/badges/f79b0efc-9136-480a-b2b7-abc5ace6e908 "IBM AI Associate Leader")
+[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/110x110/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/73250c86-c61f-47d6-b3ec-c035516f58f0 "Enterprise Design Thinking Co-Creator")
 [![IBM Quantum Conversations](https://images.credly.com/size/110x110/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png)](http://www.credly.com/badges/ef86ea89-cd1a-450d-a3b3-106b22936992 "IBM Quantum Conversations")
 [![Watson and Cloud Foundations](https://images.credly.com/size/110x110/images/53608ce6-a597-40fa-a42d-d243b3ecfba4/Watson_and_Cloud_Foundations.png)](http://www.credly.com/badges/63c38ffc-c9d1-43e7-955a-0b46b2c4e5ea "Watson and Cloud Foundations")
 [![IBM AI Associate for All IBMers](https://images.credly.com/size/110x110/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7 "IBM AI Associate for All IBMers")
