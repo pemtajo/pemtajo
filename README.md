@@ -17,6 +17,7 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![Open Source Strategic Committer](https://images.credly.com/size/110x110/images/b6df1cbb-2ade-464c-9924-7ffb3fec3f6c/Open-Source-Strategic-Committer.png)](http://www.credly.com/badges/7cb20fe2-28a9-499f-b054-3f151c9e2e75 "Open Source Strategic Committer")
 [![Think Like a Hacker](https://images.credly.com/size/110x110/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/b512d99e-92f7-476a-b1ba-710111fbcd30 "Think Like a Hacker")
 [![IBM AI Associate Leader](https://images.credly.com/size/110x110/images/4b2792a2-3339-4169-88ea-9ede13358440/IBM-AI-Associate-Leader.png)](http://www.credly.com/badges/f79b0efc-9136-480a-b2b7-abc5ace6e908 "IBM AI Associate Leader")
 [![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/110x110/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/73250c86-c61f-47d6-b3ec-c035516f58f0 "Enterprise Design Thinking Co-Creator")
