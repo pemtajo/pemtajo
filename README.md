@@ -70,7 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 December, 2021 - 07 December, 2021
+
+Python   30 mins         ████████░░░░░░░░░░░░░░░░░   32.44 % 
+Docker   28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.16 % 
+Text     17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.84 % 
+YAML     14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 
