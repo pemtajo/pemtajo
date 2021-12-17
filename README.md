@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2021 - 15 December, 2021
+Week: 10 December, 2021 - 16 December, 2021
 
-YAML         14 mins         ████████░░░░░░░░░░░░░░░░░   32.08 % 
-Other        11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.37 % 
-Markdown     7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-JavaScript   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Python       5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Python       32 mins         ████████████▒░░░░░░░░░░░░   48.98 % 
+YAML         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.07 % 
+Markdown     13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+XML          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 <!--END_SECTION:waka-->
 
