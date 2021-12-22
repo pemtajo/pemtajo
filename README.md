@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
-Python       1 hr 24 mins    ██████████████▒░░░░░░░░░░   57.40 % 
-JSON         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Markdown     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python       2 hrs 14 mins   ████████████████░░░░░░░░░   63.44 % 
+JSON         42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
 
