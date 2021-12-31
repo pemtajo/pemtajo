@@ -70,10 +70,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-Docker     5 mins          ████████████▒░░░░░░░░░░░░   48.97 % 
-Python     5 mins          ███████████░░░░░░░░░░░░░░   44.32 % 
+JSON         2 mins          ███████████████████████░░   92.50 % 
 ```
 <!--END_SECTION:waka-->
 
