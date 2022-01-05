@@ -13,3 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BADGE_SIZE: 100
