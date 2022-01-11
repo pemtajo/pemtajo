@@ -96,10 +96,10 @@ JSON         14 mins         ▒░░░░░░░░░░░░░░░░
 
 <!-- BLOG-POST-LIST:START -->
 - [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
-- [How to improve your Github profile by adding badges](https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
-- [Good test vs. bad test, como identificar?](https://medium.com/devorando/good-test-bad-test-como-identificar-ffd1d43ca034?source=rss-bb908bda42e------2)
-- [Tokens JWT! o que são? o que comem? onde vivem?](https://medium.com/devorando/tokens-jwt-o-que-s%C3%A3o-o-que-comem-onde-vivem-f4e85ad37876?source=rss-bb908bda42e------2)
-- [Bora falar sobre funções HASH? #first](https://medium.com/devorando/first-bora-falar-sobre-funcoes-hash-a0df1afdfe24?source=rss-bb908bda42e------2)
+- [How American football makes me a better developer](https://dev.to/pemtajo/how-american-football-makes-me-a-better-developer-47he)
+- [Creating a blockchain with less 100 code lines](https://dev.to/pemtajo/creating-a-blockchain-with-less-100-code-lines-5aba)
+- [An overview about hash functions: Theory and Security](https://dev.to/pemtajo/an-overview-about-hash-functions-theory-and-security-139e)
+- [Why  RSA Criptography works?](https://dev.to/pemtajo/why-rsa-criptography-works-5g7a)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
