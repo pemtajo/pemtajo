@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
+Week: 05 January, 2022 - 11 January, 2022
 
-JavaScript   9 hrs 40 mins   ███████████████████▓░░░░░   79.10 % 
-Python       1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Markdown     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Bash         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+JavaScript   9 hrs 44 mins   ███████████████████▓░░░░░   79.14 % 
+Python       1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Markdown     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Bash         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+YAML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 <!--END_SECTION:waka-->
 
