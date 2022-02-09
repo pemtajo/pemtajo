@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-JavaScript   11 hrs 12 mins  █████████████████▓░░░░░░░   70.14 % 
-Markdown     1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Python       1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-JSON         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JavaScript   11 hrs 12 mins  ██████████████████▒░░░░░░   72.99 % 
+Python       1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Markdown     1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+JSON         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
