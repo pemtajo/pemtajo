@@ -17,6 +17,7 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![Cloud Core](https://images.credly.com/size/100x100/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/9ba5d062-f0bc-4b44-96eb-3f7b400be24f "Cloud Core")
 [![Application Development Specialty Level 1](https://images.credly.com/size/100x100/images/221ed70e-0e4b-4cd4-8ad5-9ab6d54bec39/Application-Development-Specialty-Intermediate.png)](http://www.credly.com/badges/b66c9738-e0f7-4f91-934f-01749f89cca2 "Application Development Specialty Level 1")
 [![Open Source Strategic Committer](https://images.credly.com/size/100x100/images/b6df1cbb-2ade-464c-9924-7ffb3fec3f6c/Open-Source-Strategic-Committer.png)](http://www.credly.com/badges/7cb20fe2-28a9-499f-b054-3f151c9e2e75 "Open Source Strategic Committer")
 [![Think Like a Hacker](https://images.credly.com/size/100x100/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/b512d99e-92f7-476a-b1ba-710111fbcd30 "Think Like a Hacker")
