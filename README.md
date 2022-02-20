@@ -96,11 +96,11 @@ Bash         17 mins         █░░░░░░░░░░░░░░░░
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width = 50px> </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
 - [How to improve your Github profile by adding badges](https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
 - [Good test vs. bad test, como identificar?](https://medium.com/devorando/good-test-bad-test-como-identificar-ffd1d43ca034?source=rss-bb908bda42e------2)
 - [Tokens JWT! o que são? o que comem? onde vivem?](https://medium.com/devorando/tokens-jwt-o-que-s%C3%A3o-o-que-comem-onde-vivem-f4e85ad37876?source=rss-bb908bda42e------2)
 - [Bora falar sobre funções HASH? #first](https://medium.com/devorando/first-bora-falar-sobre-funcoes-hash-a0df1afdfe24?source=rss-bb908bda42e------2)
-- [How American football makes me a better professional](https://pemtajo.medium.com/how-american-football-makes-me-a-better-professional-f100ad5cb9d6?source=rss-bb908bda42e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
