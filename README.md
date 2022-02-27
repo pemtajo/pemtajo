@@ -72,13 +72,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
-Python       6 hrs 1 min     ███████████████████▒░░░░░   77.26 % 
-YAML         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-JavaScript   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Python       5 hrs 46 mins   ██████████████▓░░░░░░░░░░   58.60 % 
+JavaScript   3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 % 
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 
