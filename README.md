@@ -17,6 +17,7 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
+[![Building Cloud-Native and Multicloud Applications](https://images.credly.com/size/100x100/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png)](http://www.credly.com/badges/ffe671c0-05bb-41c3-a19f-d5542705ab21 "Building Cloud-Native and Multicloud Applications")
 [![IBM Cloud Essentials](https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/d58d1ef9-da50-49df-bd3d-78067db4c9de "IBM Cloud Essentials")
 [![Cloud Core](https://images.credly.com/size/100x100/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/9ba5d062-f0bc-4b44-96eb-3f7b400be24f "Cloud Core")
 [![Application Development Specialty Level 1](https://images.credly.com/size/100x100/images/221ed70e-0e4b-4cd4-8ad5-9ab6d54bec39/Application-Development-Specialty-Intermediate.png)](http://www.credly.com/badges/b66c9738-e0f7-4f91-934f-01749f89cca2 "Application Development Specialty Level 1")
@@ -64,7 +65,6 @@
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/100x100/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/24bcb006-58f8-494c-85e3-dfee10ea7b57 "Docker Essentials: A Developer Introduction")
 [![Watson Discovery Foundations](https://images.credly.com/size/100x100/images/8c805fb7-b7e1-4b45-b933-7ee09385ea03/Watson_Academy_-_Discovery__-_Foundations.png)](http://www.credly.com/badges/b4f04f7d-a5dd-45bd-bfd1-1a0d29801bf8 "Watson Discovery Foundations")
 [![Enterprise Design Thinking - Team Essentials for AI](https://images.credly.com/size/100x100/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png)](http://www.credly.com/badges/5e280a76-446b-431a-80f0-7d2dc448a407 "Enterprise Design Thinking - Team Essentials for AI")
-[![Enterprise Design Thinking Practitioner](https://images.credly.com/size/100x100/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/6267a487-d693-44e6-acb2-d9e17df66e14 "Enterprise Design Thinking Practitioner")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
