@@ -20,6 +20,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 
 <!--START_SECTION:badges-->
 
+[![Digital Architecture Foundation](https://images.credly.com/size/100x100/images/a3e393a9-f8f7-4c17-aa97-25fe413e2a5e/Digital-Architecture-Foundation.png)](http://www.credly.com/badges/2d5579dd-c9fd-4782-a01e-e326bf5f6107 "Digital Architecture Foundation")
 [![Building Cloud-Native and Multicloud Applications](https://images.credly.com/size/100x100/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png)](http://www.credly.com/badges/ffe671c0-05bb-41c3-a19f-d5542705ab21 "Building Cloud-Native and Multicloud Applications")
 [![IBM Cloud Essentials](https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/d58d1ef9-da50-49df-bd3d-78067db4c9de "IBM Cloud Essentials")
 [![Cloud Core](https://images.credly.com/size/100x100/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/9ba5d062-f0bc-4b44-96eb-3f7b400be24f "Cloud Core")
@@ -43,7 +44,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/100x100/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png)](http://www.credly.com/badges/8095c46a-f375-4b5a-b12f-f25d1ea8162b "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
 [![Getting started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/100x100/images/376369e8-1901-44fa-af45-ce4422818f0c/Itsio_and_IBM_Cloud_Container_Service.png)](http://www.credly.com/badges/ccdebc53-e8d6-4e60-bee3-91cd010e7361 "Getting started with Microservices with Istio and IBM Cloud Kubernetes Service")
 [![Data Science for Business - Level 1](https://images.credly.com/size/100x100/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/e6bb7615-86ee-4063-8176-38cc590523cd "Data Science for Business - Level 1")
-[![IBM Garage Essentials](https://images.credly.com/size/100x100/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/7bfb4dde-8bdb-4682-ad87-b68334790744 "IBM Garage Essentials")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
