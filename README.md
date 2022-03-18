@@ -20,6 +20,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 
 <!--START_SECTION:badges-->
 
+[![IBM AI Professional Leader](https://images.credly.com/size/100x100/images/cb003281-a5cb-444d-8296-87ed0464cf5f/IBM-AI-Professional-Leader.png)](http://www.credly.com/badges/a0eae486-d41c-4751-a34b-d390c92af201 "IBM AI Professional Leader")
 [![Hybrid Cloud Conference – App Security and Threat Modeler](https://images.credly.com/size/100x100/images/f93b9f99-8d58-431e-82a6-a44c3ab7e668/Hybrid_Cloud_Conf_-_App_Sec_and_Threat_Modler.png)](http://www.credly.com/badges/f291e9a4-0d8d-4121-aa58-1a5914d8feba "Hybrid Cloud Conference – App Security and Threat Modeler")
 [![Digital Architecture Foundation](https://images.credly.com/size/100x100/images/a3e393a9-f8f7-4c17-aa97-25fe413e2a5e/Digital-Architecture-Foundation.png)](http://www.credly.com/badges/2d5579dd-c9fd-4782-a01e-e326bf5f6107 "Digital Architecture Foundation")
 [![Building Cloud-Native and Multicloud Applications](https://images.credly.com/size/100x100/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png)](http://www.credly.com/badges/ffe671c0-05bb-41c3-a19f-d5542705ab21 "Building Cloud-Native and Multicloud Applications")
@@ -43,7 +44,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/100x100/images/c848b101-661f-4f3a-bc8f-f9c977a55524/Containers-K8s-istio-IBM_cloud_v2.png)](http://www.credly.com/badges/1ad7529a-c7cc-44ca-b9ff-5d5f5d067d45 "Containers, K8s and Istio on IBM Cloud")
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/100x100/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png)](http://www.credly.com/badges/34545d3b-215d-4b43-8620-0b1b75306b35 "Containers & Kubernetes Essentials")
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/100x100/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png)](http://www.credly.com/badges/8095c46a-f375-4b5a-b12f-f25d1ea8162b "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
-[![Getting started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/100x100/images/376369e8-1901-44fa-af45-ce4422818f0c/Itsio_and_IBM_Cloud_Container_Service.png)](http://www.credly.com/badges/ccdebc53-e8d6-4e60-bee3-91cd010e7361 "Getting started with Microservices with Istio and IBM Cloud Kubernetes Service")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
