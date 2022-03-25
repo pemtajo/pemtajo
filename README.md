@@ -20,6 +20,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 
 <!--START_SECTION:badges-->
 
+[![Technical Specialist Profession Certification - Level 1](https://images.credly.com/size/100x100/images/af9bdfd9-5722-43a1-8aa9-06cdc5b5bd24/Tech-Spec-Experienced.png)](http://www.credly.com/badges/e53315f5-783c-43a2-b1a8-9a05c117b50d "Technical Specialist Profession Certification - Level 1")
 [![Hybrid Cloud Conference – Pipeline Builder](https://images.credly.com/size/100x100/images/47069d6e-35c4-46ce-9cf6-12cc92e09a48/Hybrid_Cloud_Conf_-_Pipeline_Builder.png)](http://www.credly.com/badges/2d769f9e-71a3-4394-8cd5-72247346ac76 "Hybrid Cloud Conference – Pipeline Builder")
 [![Hybrid Cloud Conference – Serverless Innovator](https://images.credly.com/size/100x100/images/a7c5d4e5-bba1-4541-9b72-138d75f6fa8b/Hybrid_Cloud_Conf_-_Serverless_Innovator.png)](http://www.credly.com/badges/05d8ba97-cf24-4e94-8846-bfab6f4cea67 "Hybrid Cloud Conference – Serverless Innovator")
 [![Hybrid Cloud Conference – Service Mesh Networker](https://images.credly.com/size/100x100/images/236f63f5-b7b6-42e8-8151-cc70f0dc8445/Hybrid_Cloud_Conf_-_Service_Mesh_Networker.png)](http://www.credly.com/badges/e81aeddd-ab7c-4e2a-a478-21971b908c0d "Hybrid Cloud Conference – Service Mesh Networker")
@@ -43,7 +44,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![Call for Code 2021 - IBM Contributor](https://images.credly.com/size/100x100/images/9ed3a9b0-4b18-47d0-849a-9992acab022a/Call-for-code-2021.png)](http://www.credly.com/badges/b65fd1d2-35e6-44d3-95db-eb4f780ace59 "Call for Code 2021 - IBM Contributor")
 [![Open Source Foundations](https://images.credly.com/size/100x100/images/3f393dd4-e8e0-4fef-a424-c9f1d1f3ba97/Open_Source_Foundations.png)](http://www.credly.com/badges/9ce6f29d-3653-438e-b4f1-cdfb304e1f8a "Open Source Foundations")
 [![Explorations into Mindfulness](https://images.credly.com/size/100x100/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/809ea7b2-ac3f-4d74-842f-4e4024e97491 "Explorations into Mindfulness")
-[![IBM Mentor](https://images.credly.com/size/100x100/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png)](http://www.credly.com/badges/39b05265-01f2-4eb2-a69c-b7df52255431 "IBM Mentor")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
