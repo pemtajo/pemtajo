@@ -6,7 +6,6 @@
 
 <p align="center">
 <a href="https://dev.to/pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pemtajo" height="30" width="30" /></a>
-<a href="https://twitter.com/pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pemtajo" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pedromaraujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a>
 <a href="https://medium.com/@pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pemtajo" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/8581307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8581307" height="30" width="30" /></a>
