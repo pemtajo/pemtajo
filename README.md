@@ -51,14 +51,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 March 2022 - To: 25 March 2022
+From: 19 March 2022 - To: 26 March 2022
 
-Python       1 hr 46 mins    █████████████░░░░░░░░░░░░   51.43 %
-JavaScript   37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Markdown     29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Text         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python       2 hrs 35 mins   ████████████▒░░░░░░░░░░░░   49.39 %
+JavaScript   1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Markdown     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+YAML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
