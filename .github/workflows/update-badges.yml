@@ -14,4 +14,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BADGE_SIZE: 100
-          NUMBER_LAST_BADGES: 48
+          NUMBER_LAST_BADGES: 24
