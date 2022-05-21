@@ -50,14 +50,14 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2022 - To: 19 May 2022
+From: 13 May 2022 - To: 20 May 2022
 
-JavaScript   2 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-TypeScript   1 hr 32 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-Markdown     1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-YAML         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Bash         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Kotlin       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Markdown     1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+TypeScript   1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.12 %
+Bash         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Kotlin       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+YAML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
