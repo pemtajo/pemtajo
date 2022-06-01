@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Pedro Matias</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Pedro Matias</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="pemtajo" /> </p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 
 <p align="center">
 <a href="https://dev.to/pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pemtajo" height="30" width="30" /></a>
@@ -13,7 +13,7 @@
 
 <br />
 
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="40"> </h2>
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
@@ -60,7 +60,7 @@ Other        2 hrs 1 min     ████████▓░░░░░░░░
 
 <br />
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="32"> </h2>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pemtajo&theme=dark" alt="pemtajo" /></p>
 
@@ -70,7 +70,7 @@ Other        2 hrs 1 min     ████████▓░░░░░░░░
 
 <br />
 
-<h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="50"> </h2>
+<h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [4 Tips to use Watson Discovery](https://pemtajo.medium.com/4-tips-to-use-watson-discovery-802f3c568315?source=rss-bb908bda42e------2)
