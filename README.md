@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="pemtajo" /> </p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 <p align="center">
 <a href="https://dev.to/pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pemtajo" height="30" width="30" /></a>
