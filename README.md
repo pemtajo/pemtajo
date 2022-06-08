@@ -18,6 +18,8 @@
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
+[![IBM DevSecOps Explorer - Security & Automation for DevOps](https://images.credly.com/size/100x100/images/673f4bed-428d-42cf-b523-3bf266b2bd8f/DevSecOps.png)](http://www.credly.com/badges/f512ba38-fd6c-4e2a-b037-6843953faf6c "IBM DevSecOps Explorer - Security & Automation for DevOps")
+[![DevSecOps Essentials](https://images.credly.com/size/100x100/images/6fcae0c0-78b7-48c5-a414-5d21665b2250/DevSecOps-Essentials.png)](http://www.credly.com/badges/c8b48139-2927-4c5e-a896-0693bb9e3443 "DevSecOps Essentials")
 [![Technical Specialist Profession Certification - Level 1](https://images.credly.com/size/100x100/images/af9bdfd9-5722-43a1-8aa9-06cdc5b5bd24/Tech-Spec-Experienced.png)](http://www.credly.com/badges/e53315f5-783c-43a2-b1a8-9a05c117b50d "Technical Specialist Profession Certification - Level 1")
 [![Hybrid Cloud Conference – Pipeline Builder](https://images.credly.com/size/100x100/images/47069d6e-35c4-46ce-9cf6-12cc92e09a48/Hybrid_Cloud_Conf_-_Pipeline_Builder.png)](http://www.credly.com/badges/2d769f9e-71a3-4394-8cd5-72247346ac76 "Hybrid Cloud Conference – Pipeline Builder")
 [![Hybrid Cloud Conference – Serverless Innovator](https://images.credly.com/size/100x100/images/a7c5d4e5-bba1-4541-9b72-138d75f6fa8b/Hybrid_Cloud_Conf_-_Serverless_Innovator.png)](http://www.credly.com/badges/05d8ba97-cf24-4e94-8846-bfab6f4cea67 "Hybrid Cloud Conference – Serverless Innovator")
@@ -40,8 +42,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![IBM Agile Explorer](https://images.credly.com/size/100x100/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/900a2dc6-5f67-4cde-960d-e40c49d5ea16 "IBM Agile Explorer")
 [![Interskill - Coaching and Mentoring for Technical Specialists](https://images.credly.com/size/100x100/images/ca34a079-0c47-498d-950e-6d634b6340bf/Interskill_-_Prof_Dev_-_Coach_Mentoring_for_Tech_Specialists.png)](http://www.credly.com/badges/debc3eba-c526-4734-9735-25c2d2be7451 "Interskill - Coaching and Mentoring for Technical Specialists")
 [![Call for Code 2021 - IBM Contributor](https://images.credly.com/size/100x100/images/9ed3a9b0-4b18-47d0-849a-9992acab022a/Call-for-code-2021.png)](http://www.credly.com/badges/b65fd1d2-35e6-44d3-95db-eb4f780ace59 "Call for Code 2021 - IBM Contributor")
-[![Open Source Foundations](https://images.credly.com/size/100x100/images/3f393dd4-e8e0-4fef-a424-c9f1d1f3ba97/Open_Source_Foundations.png)](http://www.credly.com/badges/9ce6f29d-3653-438e-b4f1-cdfb304e1f8a "Open Source Foundations")
-[![Explorations into Mindfulness](https://images.credly.com/size/100x100/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/809ea7b2-ac3f-4d74-842f-4e4024e97491 "Explorations into Mindfulness")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
