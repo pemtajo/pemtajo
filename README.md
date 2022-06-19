@@ -50,7 +50,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 Python       2 hrs 2 mins    ████████████████░░░░░░░░░   63.38 %
 Bash         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
