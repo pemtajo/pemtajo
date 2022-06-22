@@ -1,9 +1,14 @@
 name: Update badges
 
 on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags'  
 jobs:
   update-readme:
     name: Update Readme with badges
