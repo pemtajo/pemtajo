@@ -18,6 +18,7 @@
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
+[![Cybersecurity Fundamentals](https://images.credly.com/size/100x100/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png)](http://www.credly.com/badges/dcf466df-bca3-4a56-91f0-823e30c05dbd "Cybersecurity Fundamentals")
 [![Professional Certification: Certified Technical Specialist, Application Development](https://images.credly.com/size/100x100/images/d087a332-8b99-4bfd-9020-06a41e010158/badge-opencts-certified.png)](http://www.credly.com/badges/944b1c39-9352-48c2-bec7-3340b4c2973c "Professional Certification: Certified Technical Specialist, Application Development")
 [![IBM DevSecOps Explorer - Security & Automation for DevOps](https://images.credly.com/size/100x100/images/673f4bed-428d-42cf-b523-3bf266b2bd8f/DevSecOps.png)](http://www.credly.com/badges/f512ba38-fd6c-4e2a-b037-6843953faf6c "IBM DevSecOps Explorer - Security & Automation for DevOps")
 [![DevSecOps Essentials](https://images.credly.com/size/100x100/images/6fcae0c0-78b7-48c5-a414-5d21665b2250/DevSecOps-Essentials.png)](http://www.credly.com/badges/c8b48139-2927-4c5e-a896-0693bb9e3443 "DevSecOps Essentials")
@@ -41,7 +42,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![IBM AI Associate for All IBMers](https://images.credly.com/size/100x100/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7 "IBM AI Associate for All IBMers")
 [![Blue Core Mentor](https://images.credly.com/size/100x100/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png)](http://www.credly.com/badges/efbe4d94-088b-4270-8adc-a6d23dc6f05e "Blue Core Mentor")
 [![IBM Agile Explorer](https://images.credly.com/size/100x100/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/900a2dc6-5f67-4cde-960d-e40c49d5ea16 "IBM Agile Explorer")
-[![Interskill - Coaching and Mentoring for Technical Specialists](https://images.credly.com/size/100x100/images/ca34a079-0c47-498d-950e-6d634b6340bf/Interskill_-_Prof_Dev_-_Coach_Mentoring_for_Tech_Specialists.png)](http://www.credly.com/badges/debc3eba-c526-4734-9735-25c2d2be7451 "Interskill - Coaching and Mentoring for Technical Specialists")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
