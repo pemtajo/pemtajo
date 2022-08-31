@@ -50,14 +50,10 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 29 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-Markdown     56 mins         ████████████████▒░░░░░░░░   65.15 %
-Bash         16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-YAML         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Clojure      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Git          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown     1 hr 1 min      ███████████░░░░░░░░░░░░░░   44.56 %
+Other        45 mins         ████████▒░░░░░░░░░░░░░░░░   33.58 %
 ```
 
 <!--END_SECTION:waka-->
