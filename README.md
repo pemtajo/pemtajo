@@ -50,11 +50,11 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 October 2022 - To: 24 October 2022
+From: 18 October 2022 - To: 25 October 2022
 
-Markdown     4 hrs 12 mins   ████████████████▓░░░░░░░░   66.37 %
-CSS          1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-Other        23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Markdown     4 hrs 14 mins   █████████████████▒░░░░░░░   69.68 %
+CSS          1 hr 6 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+Other        22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
