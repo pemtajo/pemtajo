@@ -50,11 +50,11 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-Clojure   3 hrs 1 min     ███████████████████████▒░   93.03 %
-YAML      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Other     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Clojure   3 hrs 1 min     ███████████████████████░░   92.40 %
+YAML      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Other     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
