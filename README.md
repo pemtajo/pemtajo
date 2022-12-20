@@ -50,7 +50,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 December 2022 - To: 18 December 2022
+From: 12 December 2022 - To: 19 December 2022
 
 JavaScript   57 mins         █████████▓░░░░░░░░░░░░░░░   38.03 %
 Clojure      52 mins         ████████▓░░░░░░░░░░░░░░░░   34.84 %
