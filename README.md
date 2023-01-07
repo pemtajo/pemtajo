@@ -50,13 +50,12 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
-Markdown     20 hrs 19 mins  ████████████████▓░░░░░░░░   66.83 %
-Clojure      7 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-JavaScript   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Python       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Markdown     17 hrs 43 mins  ██████████████▓░░░░░░░░░░   58.01 %
+Clojure      8 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+JavaScript   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Other        1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
