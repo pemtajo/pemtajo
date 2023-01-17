@@ -19,7 +19,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/100x100/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774 "Introduction to Cybersecurity Tools & Cyber Attacks")
-[![Cybersecurity Fundamentals](https://images.credly.com/size/100x100/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png)](http://www.credly.com/badges/dcf466df-bca3-4a56-91f0-823e30c05dbd "Cybersecurity Fundamentals")
+[![Cybersecurity Fundamentals](https://images.credly.com/size/100x100/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/dcf466df-bca3-4a56-91f0-823e30c05dbd "Cybersecurity Fundamentals")
 [![Professional Certification: Certified Technical Specialist, Application Development](https://images.credly.com/size/100x100/images/d087a332-8b99-4bfd-9020-06a41e010158/badge-opencts-certified.png)](http://www.credly.com/badges/944b1c39-9352-48c2-bec7-3340b4c2973c "Professional Certification: Certified Technical Specialist, Application Development")
 [![IBM DevSecOps Explorer - Security & Automation for DevOps](https://images.credly.com/size/100x100/images/673f4bed-428d-42cf-b523-3bf266b2bd8f/DevSecOps.png)](http://www.credly.com/badges/f512ba38-fd6c-4e2a-b037-6843953faf6c "IBM DevSecOps Explorer - Security & Automation for DevOps")
 [![DevSecOps Essentials](https://images.credly.com/size/100x100/images/6fcae0c0-78b7-48c5-a414-5d21665b2250/DevSecOps-Essentials.png)](http://www.credly.com/badges/c8b48139-2927-4c5e-a896-0693bb9e3443 "DevSecOps Essentials")
