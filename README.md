@@ -50,14 +50,14 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
-Markdown     7 hrs 16 mins   ██████████████░░░░░░░░░░░   56.36 %
-Python       2 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
-Clojure      1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Go           43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-YAML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Mustache     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Markdown     6 hrs 59 mins   ██████████████░░░░░░░░░░░   55.40 %
+Python       2 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   23.35 %
+Clojure      1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Go           43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+YAML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Mustache     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
