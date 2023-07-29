@@ -18,6 +18,7 @@
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
+[![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/100x100/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](http://www.credly.com/badges/f57ad202-6817-4a11-a6e9-ff3a6027cb94 "Cybersecurity Compliance Framework & System Administration")
 [![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/100x100/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774 "Introduction to Cybersecurity Tools & Cyber Attacks")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/100x100/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/dcf466df-bca3-4a56-91f0-823e30c05dbd "Cybersecurity Fundamentals")
 [![Professional Certification: Certified Technical Specialist, Application Development](https://images.credly.com/size/100x100/images/d087a332-8b99-4bfd-9020-06a41e010158/badge-opencts-certified.png)](http://www.credly.com/badges/944b1c39-9352-48c2-bec7-3340b4c2973c "Professional Certification: Certified Technical Specialist, Application Development")
@@ -41,7 +42,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![IBM Quantum Conversations](https://images.credly.com/size/100x100/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png)](http://www.credly.com/badges/ef86ea89-cd1a-450d-a3b3-106b22936992 "IBM Quantum Conversations")
 [![Watson and Cloud Foundations](https://images.credly.com/size/100x100/images/53608ce6-a597-40fa-a42d-d243b3ecfba4/Watson_and_Cloud_Foundations.png)](http://www.credly.com/badges/63c38ffc-c9d1-43e7-955a-0b46b2c4e5ea "Watson and Cloud Foundations")
 [![IBM AI Associate for All IBMers](https://images.credly.com/size/100x100/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7 "IBM AI Associate for All IBMers")
-[![Blue Core Mentor](https://images.credly.com/size/100x100/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png)](http://www.credly.com/badges/efbe4d94-088b-4270-8adc-a6d23dc6f05e "Blue Core Mentor")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
