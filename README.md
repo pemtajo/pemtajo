@@ -18,6 +18,8 @@
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
+[![Cybersecurity IT Fundamentals Specialization](https://images.credly.com/size/100x100/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](http://www.credly.com/badges/43542a30-685e-46fb-9b16-da289332e75a "Cybersecurity IT Fundamentals Specialization")
+[![Network Security & Database Vulnerabilities](https://images.credly.com/size/100x100/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png)](http://www.credly.com/badges/e0d89b53-1491-407e-b173-8270a87860e2 "Network Security & Database Vulnerabilities")
 [![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/100x100/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](http://www.credly.com/badges/f57ad202-6817-4a11-a6e9-ff3a6027cb94 "Cybersecurity Compliance Framework & System Administration")
 [![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/100x100/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774 "Introduction to Cybersecurity Tools & Cyber Attacks")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/100x100/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/dcf466df-bca3-4a56-91f0-823e30c05dbd "Cybersecurity Fundamentals")
@@ -40,8 +42,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![IBM AI Associate Leader](https://images.credly.com/size/100x100/images/4b2792a2-3339-4169-88ea-9ede13358440/IBM-AI-Associate-Leader.png)](http://www.credly.com/badges/f79b0efc-9136-480a-b2b7-abc5ace6e908 "IBM AI Associate Leader")
 [![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/100x100/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/73250c86-c61f-47d6-b3ec-c035516f58f0 "Enterprise Design Thinking Co-Creator")
 [![IBM Quantum Conversations](https://images.credly.com/size/100x100/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png)](http://www.credly.com/badges/ef86ea89-cd1a-450d-a3b3-106b22936992 "IBM Quantum Conversations")
-[![Watson and Cloud Foundations](https://images.credly.com/size/100x100/images/53608ce6-a597-40fa-a42d-d243b3ecfba4/Watson_and_Cloud_Foundations.png)](http://www.credly.com/badges/63c38ffc-c9d1-43e7-955a-0b46b2c4e5ea "Watson and Cloud Foundations")
-[![IBM AI Associate for All IBMers](https://images.credly.com/size/100x100/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7 "IBM AI Associate for All IBMers")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
