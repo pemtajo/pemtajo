@@ -50,7 +50,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
 Clojure          4 hrs 55 mins   ████████████████░░░░░░░░░   64.07 %
 Python           1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
