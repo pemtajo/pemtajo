@@ -18,6 +18,7 @@
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
+[![Cyber Threat Intelligence](https://images.credly.com/size/100x100/images/cb36f879-6801-40b9-8f2e-006d20b1cab2/Cyber_Threat_Intelligence.png)](http://www.credly.com/badges/4bd26724-b573-46cb-a5eb-483b85939d90 "Cyber Threat Intelligence")
 [![Penetration Testing, Incident Response and Forensics](https://images.credly.com/size/100x100/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png)](http://www.credly.com/badges/ecf01b05-5348-432e-9247-93ea559d31a6 "Penetration Testing, Incident Response and Forensics")
 [![Cybersecurity IT Fundamentals Specialization](https://images.credly.com/size/100x100/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](http://www.credly.com/badges/43542a30-685e-46fb-9b16-da289332e75a "Cybersecurity IT Fundamentals Specialization")
 [![Network Security & Database Vulnerabilities](https://images.credly.com/size/100x100/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png)](http://www.credly.com/badges/e0d89b53-1491-407e-b173-8270a87860e2 "Network Security & Database Vulnerabilities")
@@ -41,7 +42,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![Open Source Strategic Committer](https://images.credly.com/size/100x100/images/b6df1cbb-2ade-464c-9924-7ffb3fec3f6c/Open-Source-Strategic-Committer.png)](http://www.credly.com/badges/7cb20fe2-28a9-499f-b054-3f151c9e2e75 "Open Source Strategic Committer")
 [![Think Like a Hacker](https://images.credly.com/size/100x100/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/b512d99e-92f7-476a-b1ba-710111fbcd30 "Think Like a Hacker")
 [![IBM AI Associate Leader](https://images.credly.com/size/100x100/images/4b2792a2-3339-4169-88ea-9ede13358440/IBM-AI-Associate-Leader.png)](http://www.credly.com/badges/f79b0efc-9136-480a-b2b7-abc5ace6e908 "IBM AI Associate Leader")
-[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/100x100/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/73250c86-c61f-47d6-b3ec-c035516f58f0 "Enterprise Design Thinking Co-Creator")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
