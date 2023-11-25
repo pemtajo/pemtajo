@@ -50,9 +50,10 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-No activity tracked
+JavaScript   1 hr 8 mins     ██████████████████▓░░░░░░   74.60 %
+Markdown     23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
 ```
 
 <!--END_SECTION:waka-->
