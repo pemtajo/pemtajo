@@ -18,6 +18,7 @@
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
+[![Cybersecurity Breach Case Studies](https://images.credly.com/size/100x100/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png)](http://www.credly.com/badges/edf33c2c-8998-4ae0-8995-e65ac4e2b6f4 "Cybersecurity Breach Case Studies")
 [![Cyber Threat Intelligence](https://images.credly.com/size/100x100/images/cb36f879-6801-40b9-8f2e-006d20b1cab2/Cyber_Threat_Intelligence.png)](http://www.credly.com/badges/4bd26724-b573-46cb-a5eb-483b85939d90 "Cyber Threat Intelligence")
 [![Penetration Testing, Incident Response and Forensics](https://images.credly.com/size/100x100/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png)](http://www.credly.com/badges/ecf01b05-5348-432e-9247-93ea559d31a6 "Penetration Testing, Incident Response and Forensics")
 [![Cybersecurity IT Fundamentals Specialization](https://images.credly.com/size/100x100/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](http://www.credly.com/badges/43542a30-685e-46fb-9b16-da289332e75a "Cybersecurity IT Fundamentals Specialization")
@@ -41,7 +42,6 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![Application Development Specialty - Experienced](https://images.credly.com/size/100x100/images/221ed70e-0e4b-4cd4-8ad5-9ab6d54bec39/Application-Development-Specialty-Intermediate.png)](http://www.credly.com/badges/b66c9738-e0f7-4f91-934f-01749f89cca2 "Application Development Specialty - Experienced")
 [![Open Source Strategic Committer](https://images.credly.com/size/100x100/images/b6df1cbb-2ade-464c-9924-7ffb3fec3f6c/Open-Source-Strategic-Committer.png)](http://www.credly.com/badges/7cb20fe2-28a9-499f-b054-3f151c9e2e75 "Open Source Strategic Committer")
 [![Think Like a Hacker](https://images.credly.com/size/100x100/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/b512d99e-92f7-476a-b1ba-710111fbcd30 "Think Like a Hacker")
-[![IBM AI Associate Leader](https://images.credly.com/size/100x100/images/4b2792a2-3339-4169-88ea-9ede13358440/IBM-AI-Associate-Leader.png)](http://www.credly.com/badges/f79b0efc-9136-480a-b2b7-abc5ace6e908 "IBM AI Associate Leader")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
