@@ -50,7 +50,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2024 - To: 02 March 2024
+From: 25 February 2024 - To: 03 March 2024
 
 JSON         14 mins         ████████▓░░░░░░░░░░░░░░░░   34.67 %
 Markdown     12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.17 %
