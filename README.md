@@ -50,13 +50,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2024 - To: 26 June 2024
+From: 20 June 2024 - To: 27 June 2024
 
-Clojure      3 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   36.76 %
-Python       2 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-JavaScript   1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-YAML         1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Clojure      2 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   36.14 %
+Python       1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+JavaScript   1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+YAML         1 hr 25 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
