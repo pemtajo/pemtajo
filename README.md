@@ -40,7 +40,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![Digital Architecture Foundation](https://images.credly.com/size/100x100/images/a3e393a9-f8f7-4c17-aa97-25fe413e2a5e/Digital-Architecture-Foundation.png)](http://www.credly.com/badges/2d5579dd-c9fd-4782-a01e-e326bf5f6107 "Digital Architecture Foundation")
 [![Building Cloud-Native and Multicloud Applications](https://images.credly.com/size/100x100/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png)](http://www.credly.com/badges/ffe671c0-05bb-41c3-a19f-d5542705ab21 "Building Cloud-Native and Multicloud Applications")
 [![IBM Cloud Essentials](https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/d58d1ef9-da50-49df-bd3d-78067db4c9de "IBM Cloud Essentials")
-[![Cloud Core](https://images.credly.com/size/100x100/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/9ba5d062-f0bc-4b44-96eb-3f7b400be24f "Cloud Core")
+[![Cloud Essentials](https://images.credly.com/size/100x100/images/5ee26427-f944-4182-b802-459462184c9a/image.png)](http://www.credly.com/badges/9ba5d062-f0bc-4b44-96eb-3f7b400be24f "Cloud Essentials")
 [![Application Development Specialty - Experienced](https://images.credly.com/size/100x100/images/221ed70e-0e4b-4cd4-8ad5-9ab6d54bec39/Application-Development-Specialty-Intermediate.png)](http://www.credly.com/badges/b66c9738-e0f7-4f91-934f-01749f89cca2 "Application Development Specialty - Experienced")
 <!--END_SECTION:badges-->
 
