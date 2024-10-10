@@ -50,12 +50,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-JavaScript   1 hr 14 mins    █████████████████▒░░░░░░░   69.73 %
-Clojure      19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-Other        13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript   1 hr 3 mins     ██████████▒░░░░░░░░░░░░░░   41.16 %
+Clojure      1 hr            ██████████░░░░░░░░░░░░░░░   39.39 %
+Scala        14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Other        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
