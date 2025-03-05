@@ -50,13 +50,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2025 - To: 03 March 2025
+From: 25 February 2025 - To: 04 March 2025
 
-Other        55 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Python       51 mins         ██████░░░░░░░░░░░░░░░░░░░   24.41 %
-JavaScript   48 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-JSON         31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-YAML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Python       1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   32.35 %
+JavaScript   1 hr 8 mins     ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+Other        1 hr            █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+JSON         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+YAML         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:waka-->
