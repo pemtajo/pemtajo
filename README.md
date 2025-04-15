@@ -50,7 +50,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
 JavaScript   1 hr 48 mins    ██████████████░░░░░░░░░░░   56.51 %
 JSON         42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
