@@ -50,13 +50,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2025 - To: 14 May 2025
+From: 08 May 2025 - To: 15 May 2025
 
-Python       3 hrs 36 mins   ███████████████░░░░░░░░░░   59.92 %
-Other        1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-Bash         41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Docker       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Terraform    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Python       2 hrs 17 mins   █████████████░░░░░░░░░░░░   51.75 %
+Other        58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+Bash         37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Docker       20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Terraform    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
