@@ -34,6 +34,14 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 ![Data Science Tools](https://images.credly.com/size/80x80/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob "Data Science Tools")
 ![IBM Garage Methodology Explorer](https://images.credly.com/size/80x80/images/638d3298-73ef-4821-9686-8c65f75bb4e6/IBM_Garage_Methodology_Explorer.png "IBM Garage Methodology Explorer")
 ![Data Science Methodologies](https://images.credly.com/size/80x80/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob "Data Science Methodologies")
+![Simplifying Data Pipelines with Apache Kafka](https://images.credly.com/size/80x80/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob "Simplifying Data Pipelines with Apache Kafka")
+![Power Skills - Resilience, Growth Minded, Learning Agility, Time Management](https://images.credly.com/size/80x80/images/953dbff8-c1fc-4dd8-a634-bbe0c15e60a7/image.png "Power Skills - Resilience, Growth Minded, Learning Agility, Time Management")
+![IBM Event Streams Developer Essentials](https://images.credly.com/size/80x80/images/5b87a0f8-bb4e-4fe9-adbd-7fd6145398df/image.png "IBM Event Streams Developer Essentials")
+![Data Science Foundations - Level 2 (V2)](https://images.credly.com/size/80x80/images/2fde0bfe-ca31-4e31-860b-a109eeb86c05/blob "Data Science Foundations - Level 2 (V2)")
+![IBM Blockchain Foundation Architects](https://images.credly.com/size/80x80/images/65a41da4-05d0-4b64-9065-e99f52571020/IBM-Blockchain-Foundation-Architect.png "IBM Blockchain Foundation Architects")
+![IBM Recognized Speaker/ Presenter](https://images.credly.com/size/80x80/images/aad8d8bc-1cdf-4e79-b1e0-1595aeab251b/Speaker-presenter.png "IBM Recognized Speaker/ Presenter")
+![Banking Industry Jumpstart](https://images.credly.com/size/80x80/images/cb5180ef-bdd3-4c15-a632-b2d8388c221d/Banking-Industry-Jumpstart.png "Banking Industry Jumpstart")
+![IBM Mentor](https://images.credly.com/size/80x80/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png "IBM Mentor")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
