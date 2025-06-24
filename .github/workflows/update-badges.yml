@@ -21,4 +21,4 @@ jobs:
         uses: pemtajo/badge-readme@new-site-version
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          NUMBER_LAST_BADGES: 24
+          NUMBER_LAST_BADGES: 36
