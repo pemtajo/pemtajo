@@ -42,6 +42,18 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 ![IBM Recognized Speaker/ Presenter](https://images.credly.com/size/80x80/images/aad8d8bc-1cdf-4e79-b1e0-1595aeab251b/Speaker-presenter.png "IBM Recognized Speaker/ Presenter")
 ![Banking Industry Jumpstart](https://images.credly.com/size/80x80/images/cb5180ef-bdd3-4c15-a632-b2d8388c221d/Banking-Industry-Jumpstart.png "Banking Industry Jumpstart")
 ![IBM Mentor](https://images.credly.com/size/80x80/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png "IBM Mentor")
+![IBM Mentor](https://images.credly.com/size/80x80/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png "IBM Mentor")
+![IBM Garage Essentials](https://images.credly.com/size/80x80/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png "IBM Garage Essentials")
+![Data Science for Business - Level 1](https://images.credly.com/size/80x80/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob "Data Science for Business - Level 1")
+![Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/80x80/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob "Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service")
+![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/80x80/images/1cbf0444-1752-4ac8-b43c-3389004bec2a/blob "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
+![Containers & Kubernetes Essentials](https://images.credly.com/size/80x80/images/82966826-6630-4768-80d4-6028b3fab414/image.png "Containers & Kubernetes Essentials")
+![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/80x80/images/8597c132-e756-421a-8640-b84b30f1f2ac/blob "Containers, K8s and Istio on IBM Cloud")
+![IBM Mentor](https://images.credly.com/size/80x80/images/cef56b02-49c4-43c8-9913-733569bd39cc/IBM-Mentor__282_29.png "IBM Mentor")
+![Explorations into Mindfulness](https://images.credly.com/size/80x80/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png "Explorations into Mindfulness")
+![Open Source Foundations](https://images.credly.com/size/80x80/images/dd2eca53-5605-42f1-b1c5-0f1f5aba6925/blob "Open Source Foundations")
+![Call for Code 2021 - IBM Contributor](https://images.credly.com/size/80x80/images/9ed3a9b0-4b18-47d0-849a-9992acab022a/Call-for-code-2021.png "Call for Code 2021 - IBM Contributor")
+![Interskill - Coaching and Mentoring for Technical Specialists](https://images.credly.com/size/80x80/images/ffb41af2-f5f5-4cf3-9b44-76f8f4c9a4e3/image.png "Interskill - Coaching and Mentoring for Technical Specialists")
 <!--END_SECTION:badges-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
