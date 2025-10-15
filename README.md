@@ -62,13 +62,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-Python     11 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 %
-YAML       11 mins         ████████▒░░░░░░░░░░░░░░░░   33.82 %
-Other      4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-Clojure    4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other      23 mins         ███████████▓░░░░░░░░░░░░░   46.20 %
+Python     11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+YAML       11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Clojure    4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
