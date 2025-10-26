@@ -62,12 +62,12 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-TeX      2 hrs 41 mins   ████████████████████▓░░░░   82.24 %
-Other    19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-CSV      12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-BibTeX   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TeX      2 hrs 41 mins   ██████████████████▒░░░░░░   73.86 %
+Other    42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+CSV      12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+BibTeX   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
