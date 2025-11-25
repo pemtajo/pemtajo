@@ -62,7 +62,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
 JavaScript   1 hr 30 mins    █████████░░░░░░░░░░░░░░░░   35.60 %
 Python       1 hr 19 mins    ████████░░░░░░░░░░░░░░░░░   31.37 %
