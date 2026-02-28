@@ -62,13 +62,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-TeX          41 mins               ███████▓░░░░░░░░░░░░░░░░░   30.01 %
-YAML         22 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Java         21 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-Clojure      19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Pickle       15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+YAML         1 hr 1 min            ████████████▒░░░░░░░░░░░░   49.23 %
+Java         21 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+Clojure      19 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Pickle       15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+Other        4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
