@@ -62,7 +62,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2026 - To: 30 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
 Python       4 hrs 22 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 %
 Scala        3 hrs 19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.76 %
