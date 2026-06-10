@@ -62,13 +62,13 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2026 - To: 08 June 2026
+From: 02 June 2026 - To: 09 June 2026
 
-Python        6 hrs 17 mins         █████████▓░░░░░░░░░░░░░░░   38.49 %
-Markdown      3 hrs 26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Scala         1 hr 44 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Clojure       1 hr 23 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Other         1 hr                  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Python       5 hrs                 ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Markdown     3 hrs 38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+Clojure      2 hrs 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+Scala        1 hr 35 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Other        52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
