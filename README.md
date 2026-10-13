@@ -44,7 +44,7 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![IBM AI Associate Leader](https://images.credly.com/size/80x80/images/4b2792a2-3339-4169-88ea-9ede13358440/IBM-AI-Associate-Leader.png)](https://www.credly.com/badges/f79b0efc-9136-480a-b2b7-abc5ace6e908)
 [![Think Like a Hacker](https://images.credly.com/size/80x80/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](https://www.credly.com/badges/b512d99e-92f7-476a-b1ba-710111fbcd30)
 [![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/80x80/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](https://www.credly.com/badges/73250c86-c61f-47d6-b3ec-c035516f58f0)
-[![IBM Quantum Conversations](https://images.credly.com/size/80x80/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png)](https://www.credly.com/badges/ef86ea89-cd1a-450d-a3b3-106b22936992)
+[![IBM Quantum Conversations](https://images.credly.com/size/80x80/images/3e1b4b7d-3780-46e5-aee6-4eef960a80c1/69e9d69abecc0c6c0c5dfcfc.png)](https://www.credly.com/badges/ef86ea89-cd1a-450d-a3b3-106b22936992)
 [![Watson and Cloud Foundations](https://images.credly.com/size/80x80/images/53608ce6-a597-40fa-a42d-d243b3ecfba4/Watson_and_Cloud_Foundations.png)](https://www.credly.com/badges/63c38ffc-c9d1-43e7-955a-0b46b2c4e5ea)
 [![IBM AI Associate for All IBMers](https://images.credly.com/size/80x80/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](https://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7)
 [![Call for Code 2021 - IBM Contributor](https://images.credly.com/size/80x80/images/9ed3a9b0-4b18-47d0-849a-9992acab022a/Call-for-code-2021.png)](https://www.credly.com/badges/b65fd1d2-35e6-44d3-95db-eb4f780ace59)
